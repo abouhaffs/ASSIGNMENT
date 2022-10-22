@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>portfolio</title>
+  <link rel="stylesheet" href="portfolio.css">
+</head>
+<body>
+  <header>
+    <div class="header">
+      <div class="left-section">AbouhaffsNg</div>
+      <div class="right-section">
+        <p>Home</p>
+        <p>About</p>
+        <p>Contact</p>
+        <p>Services</p>
+        <p>Projects</p>
+      </div>
+    </div>
+  </header>
+  <main>
+    <div class="main1">
+      <div class="L-section">
+        <p class="hi">Hi,</p>
+        <p class="ibrahim">I'm ibrahim,</p>
+        <p class="p3">Front-End Developer.</p>
+        <p class="p4">i help brands prioties user experience through the combinattion of desgn, technologu and programming</p>
+        <button class="hire-me">Hire Me</button>
+    
+      </div>
+      <div class="L-section">
+        <img class="gani" src="Gani-Fawehinmi.jpg" width="400px" style="margin-top: 50px; margin-right:50px;">
+      </div>
+    </div>
+    <div class="second-section">
+      <p class="about">About Me</p>
+      <hr class="hr">
+      
+      <p></p>
+    </div>
+    <div class="third-section">
+      <p class="about">About Me</p>
+      <hr class="hr">
+      <p></p>
+    </div>
+  </main>
+
+  <footer>
+
+  </footer>
+</body>
+</html>
